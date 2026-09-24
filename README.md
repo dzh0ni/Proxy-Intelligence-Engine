@@ -93,5 +93,7 @@ Para obtener resultados óptimos, se recomienda extraer las listas de proxies de
 - **Telegram:** [@dzh0ni_Dev](https://t.me/dzh0ni_Dev)
 
 <p align="right">
-  <img src="https://img.shields.io/badge/Powered%20by-Nexaia%20Group-blue?style=flat-square" alt="NG">
+  <img src="https://img.shields.io/badge/Developer%20by-dZh0ni-blue?style=flat-square" alt="NG">
 </p>
+
+☆ dZh0ni ☆
