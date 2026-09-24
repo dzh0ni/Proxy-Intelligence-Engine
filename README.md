@@ -11,6 +11,7 @@
   <strong style="font-size: 1.2em;">La evolución de la gestión de proxies: De scripts locales a una interfaz inteligente de alto rendimiento.</strong>
 </p>
 
+![logo](https://raw.githubusercontent.com/dzh0ni/Proxy-Intelligence-Engine/refs/heads/master/Imagenes/Proxy-Intelligence-Engine.png)
 ---
 
 ## ⚡ ¿Qué es Proxy Intelligence Engine?
@@ -53,7 +54,6 @@ No hay instalación. Solo sigue estos pasos:
 Para obtener resultados óptimos, se recomienda extraer las listas de proxies de fuentes confiables y actualizadas. Una vez obtenidas, simplemente pégalas en la herramienta para su procesamiento.
 
 ### 🚀 Sitios de extracción sugeridos:
-*   **[hmy.name](https://hmy.name/proxy-list/)** — Excelente para listas masivas de alta rotación.
 *   **[hide.mn](https://hide.mn/es/proxy-list/)** — Listas filtradas con detalles de velocidad y anonimato.
 
 > [!TIP]
