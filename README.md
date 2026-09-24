@@ -95,5 +95,3 @@ Para obtener resultados óptimos, se recomienda extraer las listas de proxies de
 <p align="right">
   <img src="https://img.shields.io/badge/Developer%20by-dZh0ni-blue?style=flat-square" alt="NG">
 </p>
-
-☆ dZh0ni ☆
