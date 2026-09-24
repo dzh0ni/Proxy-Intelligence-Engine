@@ -11,7 +11,7 @@
   <strong style="font-size: 1.2em;">La evolución de la gestión de proxies: De scripts locales a una interfaz inteligente de alto rendimiento.</strong>
 </p>
 
-![logo](https://raw.githubusercontent.com/dzh0ni/Proxy-Intelligence-Engine/refs/heads/master/Imagenes/Proxy-Intelligence-Engine.png)
+![logo](https://github.com/dzh0ni/Proxy-Intelligence-Engine/blob/main/Imagenes/Proxy-Intelligence-Engine.png)
 ---
 
 ## ⚡ ¿Qué es Proxy Intelligence Engine?
