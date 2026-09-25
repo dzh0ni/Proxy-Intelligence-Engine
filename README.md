@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/1071/1071164.png" width="40"> Proxy Intelligence Engine
+# Proxy Intelligence Engine 🚀
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge" alt="Version">
@@ -16,81 +16,77 @@
 
 ## ⚡ ¿Qué es Proxy Intelligence Engine?
 
-**Proxy Intelligence Engine** es una aplicación web de arquitectura ligera diseñada para la extracción, limpieza y conversión masiva de proxies. A diferencia de los métodos tradicionales basados en scripts de consola, esta herramienta ofrece una **experiencia de usuario (UX) de nivel empresarial** mediante una interfaz visual moderna, optimizada para la velocidad y la privacidad.
+**Proxy Intelligence Engine** es una aplicación web ligera para extracción, limpieza y conversión masiva de proxies, con UX de nivel empresarial y processing en el cliente, manteniendo la privacidad.
 
-### 💎 Diferenciales de la Versión Web:
-- **Zero Installation:** No requiere PowerShell, Bash ni dependencias. Solo un navegador web.
-- **Client-Side Processing:** La extracción ocurre 100% en tu navegador. **Tus datos nunca se suben a un servidor**, garantizando privacidad absoluta.
-- **Visual Dashboard:** Monitorización en tiempo real de la limpieza de datos con estadísticas instantáneas.
-- **Multi-Protocol Ready:** Conversión automática a formatos compatibles con JDownloader 2 (HTTP, HTTPS, SOCKS4, SOCKS5, etc.).
+### 💎 Diferenciales
+- Zero Installation: no se requieren dependencias.
+- Client-Side Processing: la extracción ocurre en el navegador; tus datos no salen del equipo.
+- Visual Dashboard: monitorización en tiempo real.
+- Multi-Protocol Ready: formatos compatibles con JDownloader 2.
 
 ---
 
 ## 🛠️ Características Principales
 
-- **🔍 Extractor de Patrones:** Detecta automáticamente estructuras `IP:PORT` en cualquier bloque de texto sucio o logs.
-- **✨ Interfaz Nexaia Aura:** Diseño oscuro (Dark Mode) de alta gama con efectos de resplandor y transiciones fluidas.
-- **📊 Analítica en Tiempo Real:** Contador de líneas procesadas, proxies encontrados e inválidos.
-- **📥 Exportación Inteligente:** Descarga directa de listas limpias o listas formateadas para JDownloader 2.
-- **📋 Gestión de Portapapeles:** Funciones de "Pegar" y "Copiar" integradas para máxima velocidad de trabajo.
+- 🔍 Extractor de Patrones: IP:PORT en textos o logs.
+- ✨ Interfaz oscura de alto rendimiento.
+- 📊 Analítica en Tiempo Real: líneas procesadas, proxies encontrados e inválidos.
+- 📥 Exportación Inteligente: listas limpias formateadas para JDownloader 2.
+- 📋 Portapapeles: pegar/copiar para velocidad de flujo.
 
 ---
 
 ## 🚀 Guía de Uso (Instantáneo)
 
-No hay instalación. Solo sigue estos pasos:
+No hay instalación. Sigue estos pasos:
+1) Abre la herramienta en un navegador.
+2) Pega la lista de proxies en Entrada (Dump).
+3) Haz clic en Ejecutar Extracción.
+4) Verifica la Lista Limpia o exporta al formato deseado (p. ej., socks5://) para JDownloader 2.
 
-1. **Abrir la herramienta:** Descarga el archivo `Readme.html` (o el archivo principal de la web) y ábrelo en cualquier navegador moderno (Chrome, Edge, Firefox).
-2. **Ingresar datos:** Pega tu lista de proxies "sucios" o logs en el área de **Entrada (Dump)**.
-3. **Ejecutar:** Haz clic en el botón central **"Ejecutar Extracción"** en el encabezado.
-4. **Convertir y Descargar:** 
-   - Ve a la pestaña **"Lista Limpia"** para ver los resultados en formato texto.
-   - O utiliza el menú lateral para convertir la lista al protocolo deseado (ej. `socks5://`) y descárgala directamente para JDownloader 2.
+Notas: procesamiento en cliente para privacidad; para volúmenes grandes, usa un worker/servidor seguro.
 
 ---
 
 ## 🌐 Fuentes de Datos Recomendadas
 
-Para obtener resultados óptimos, se recomienda extraer las listas de proxies de fuentes confiables y actualizadas. Una vez obtenidas, simplemente pégalas en la herramienta para su procesamiento.
+Recomiendo extraer proxies de fuentes confiables y actualizadas. Pégalos en la herramienta para su procesamiento.
 
-### 🚀 Sitios de extracción sugeridos:
-*   **[hide.mn](https://hide.mn/es/proxy-list/)** — Listas filtradas con detalles de velocidad y anonimato.
+### Sugerencia
+- [hide.mn](https://hide.mn/es/proxy-list/) — Listas filtradas.
 
-> [!TIP]
-> Una vez procesadas con nuestro motor, puedes importar la lista directamente en [JDownloader 2](https://jdownloader.org/es/download/index) para maximizar tu velocidad de descarga.
+> TIP: Después de procesar, puedes importar la lista en JDownloader 2 para acelerar descargas.
+
+---
 
 ## 📂 Estructura del Proyecto
 
 | Archivo | Descripción |
 | :--- | :--- |
-| 📄 `Readme.html` | **Core Application.** La interfaz web completa con el motor de extracción. |
-| 📁 `Imagenes/` | Assets visuales y logotipos del proyecto. |
-| 📄 `LICENSE` | Licencia de uso del software. |
+| 📄 Readme.html | Core Application y motor de extracción. |
+| 📁 Imagenes/ | Assets visuales. |
+| 📄 LICENSE | Licencia de uso. |
 
 ---
 
 ## 💻 Stack Tecnológico
 
-- **HTML5:** Estructura semántica y moderna.
-- **CSS3 (Custom Properties):** Diseño basado en variables para efectos de "Aura" y "Glassmorphism".
-- **Vanilla JavaScript:** Motor de procesamiento de datos de alto rendimiento sin dependencias externas.
-- **FontAwesome:** Iconografía profesional para la interfaz.
+- HTML5
+- CSS3 (Custom Properties)
+- Vanilla JavaScript
+- FontAwesome
 
 ---
 
 ## ⚠️ Advertencia de Uso
 
-> [!IMPORTANT]
-> Este proyecto ha sido desarrollado con fines exclusivamente **educativos** y de administración de redes. El uso de esta herramienta para actividades no autorizadas en sistemas o redes ajenas es responsabilidad exclusiva del usuario.
+Este proyecto es educativo y orientado a administración de redes. El uso indebido es responsabilidad del usuario.
 
 ---
 
 ## 🤝 Contribuciones y Contacto
 
-¿Quieres optimizar el motor de extracción o mejorar la interfaz? ¡Haz un **Pull Request**!
-
-- **Lead Developer:** [dZh0ni](https://t.me/dzh0ni_Dev)
-- **Telegram:** [@dzh0ni_Dev](https://t.me/dzh0ni_Dev)
+Lead Developer: dZh0ni — Telegram: @dzh0ni_Dev
 
 <p align="right">
   <img src="https://img.shields.io/badge/Developer%20by-dZh0ni-blue?style=flat-square" alt="NG">
