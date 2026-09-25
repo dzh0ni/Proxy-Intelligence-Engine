@@ -59,16 +59,6 @@ Recomiendo extraer proxies de fuentes confiables y actualizadas. Pégalos en la 
 
 ---
 
-## 📂 Estructura del Proyecto
-
-| Archivo | Descripción |
-| :--- | :--- |
-| 📄 Readme.html | Core Application y motor de extracción. |
-| 📁 Imagenes/ | Assets visuales. |
-| 📄 LICENSE | Licencia de uso. |
-
----
-
 ## 💻 Stack Tecnológico
 
 - HTML5
