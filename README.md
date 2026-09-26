@@ -63,9 +63,10 @@ Recomiendo extraer proxies de fuentes confiables y actualizadas. Pégalos en la 
 
 | Archivo | Descripción |
 | :--- | :--- |
-| 📄 Readme.html | Core Application y motor de extracción. |
-| 📁 Imagenes/ | Assets visuales. |
-| 📄 LICENSE | Licencia de uso. |
+| 📄 README.md | Archivo de documentación principal. |
+| 📁 Imagenes/ | Carpeta para imágenes del proyectos. |
+| 📄 LICENSE | Archivo de licencia del proyecto. |
+| 📄 Proxy-Intelligence-Engine.html | Herramienta de utilidades. |
 
 ---
 
