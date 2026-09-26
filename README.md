@@ -86,7 +86,7 @@ Este proyecto es educativo y orientado a administración de redes. El uso indebi
 
 ## 🤝 Contribuciones y Contacto
 
-Lead Developer: dZh0ni — Telegram: @dzh0ni_Dev
+Lead Developer: dZh0ni — Telegram: [@dzh0ni_Dev](https://t.me/dzh0ni_Dev/)
 
 <p align="right">
   <img src="https://img.shields.io/badge/Developer%20by-dZh0ni-blue?style=flat-square" alt="NG">
